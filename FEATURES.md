@@ -22,3 +22,20 @@ The installer adds these three Flathub applications for data science:
 3. **GIMP** — org.gimp.GIMP
 
 They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
+
+## Ten more purpose-specific preinstalled applications
+
+The setup installs these ten Flathub apps selected for data science:
+
+1. **Zotero** — manage research sources and citations (org.zotero.Zotero)
+2. **Anki** — create spaced-repetition study decks (net.ankiweb.Anki)
+3. **Calibre** — organize ebooks and convert documents (com.calibre_ebook.calibre)
+4. **Foliate** — read EPUB books (com.github.johnfactotum.Foliate)
+5. **Godot Engine** — build and test 2D and 3D games (org.godotengine.Godot)
+6. **GNOME Papers** — read project and reference PDFs (org.gnome.Papers)
+7. **GNOME Calculator** — perform scientific and financial calculations (org.gnome.Calculator)
+8. **GNOME Calendar** — schedule sessions, deadlines, and events (org.gnome.Calendar)
+9. **GNOME Clocks** — time work sessions and events (org.gnome.clocks)
+10. **GNOME Maps** — look up places and plan routes (org.gnome.Maps)
+
+Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
