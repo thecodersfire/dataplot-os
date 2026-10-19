@@ -24,3 +24,11 @@ The `dataplot.svg` wallpaper is original. Dataplot OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for data science.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, KiCad**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Thonny, QGIS, GIMP**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Thonny, QGIS, GIMP**. See [FEATURES.md](FEATURES.md).

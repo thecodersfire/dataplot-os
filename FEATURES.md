@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/dataplot-os-workspace features/dataplot-os-plan features/dataplot-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for data science:
+
+1. **Thonny** — org.thonny.Thonny
+2. **QGIS** — org.qgis.qgis
+3. **GIMP** — org.gimp.GIMP
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
