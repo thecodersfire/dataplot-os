@@ -54,3 +54,20 @@ org.kde.kcalc
 org.kde.kalarm
 org.gnome.meld
 org.kde.konsole
+
+# Fifteen further purpose-specific applications
+com.github.jeromerobert.pdfarranger
+org.localsend.localsend_app
+net.cozic.joplin_desktop
+org.kde.kbackup
+org.gnome.DejaDup
+org.kde.krename
+org.kde.tellico
+org.kde.skanpage
+org.kde.merkuro
+org.kde.kclock
+org.gnome.SimpleScan
+org.gnome.Evolution
+org.gnome.Contacts
+org.gnome.TextEditor
+org.keepassxc.KeePassXC
